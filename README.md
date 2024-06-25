@@ -18,37 +18,115 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 ### Web technologies :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-  <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" title="NPM" alt="NPM" width="60" height="60"/>&nbsp;
-  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite"  width="60" height="60"/>&nbsp;
-  <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" title="Sass" alt="Sass" width="60" height="60" />&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60" />&nbsp;
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>
+      <br>HTML 5
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS" alt="CSS" width="60" height="60"/>
+      <br>CSS 3
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+      <br>React
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux " width="60" height="60"/>
+      <br>Redux
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="60" height="60"/>
+      <br>NodeJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" alt="NPM" width="60" height="60"/>
+      <br>NPM
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://vitejs.dev/logo.svg" alt="Vite"  width="60" height="60"/>&nbsp;
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="WebPack"  width="60" height="60"/>&nbsp;
+      <br>WebPack
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" alt="Sass" width="60" height="60" />&nbsp;
+      <br>Sass
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="Less " width="60" height="60"/>&nbsp;
+      <br>Less
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
 
 ### Testing :
-<div>
-  <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" title="Jest" alt="Jest" width="60" height="60" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="60" height="60"/>&nbsp; 
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" alt="Jest" width="60" height="60" />
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="60" height="60"/>
+      <br>Selenium
+    </td>
+  </tr>
+</table>
 
 ### Code quality :
-<div>
-   <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" title="Eslint" width="60" height="60" alt="Eslint" />&nbsp;
-   <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" title="Prettier" width="60" height="60" alt="Prettier" />&nbsp;
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="60" height="60" alt="ESlint" />
+      <br>ESlint
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="60" height="60" alt="Prettier" />;
+      <br>Prettier
+    </td>
+  </tr>
+</table>
 
 ### Another technologies :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Dima-Sosin/Dima-Sosin/assets/127529532/faefb54d-a063-48fb-975f-58194f5a5c85" title="C++" alt="C++" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+      <br>Git
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
+      <br>Java
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+      <br>C
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/Dima-Sosin/Dima-Sosin/assets/127529532/faefb54d-a063-48fb-975f-58194f5a5c85" alt="C++" width="60" height="60"/>
+      <br>C++
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
