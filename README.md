@@ -37,7 +37,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
       <br>React
     </td>
     <td align="center" width="110" height="90">
@@ -45,11 +45,15 @@
       <br>Redux
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="60" height="60"/>
-      <br>NodeJS
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-plain.svg" alt="MobX " width="60" height="60"/>
+      <br>MobX
     </td>
   </tr>
   <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="60" height="60"/>
+      <br>NodeJS
+    </td>
     <td align="center" width="110" height="90">
       <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" alt="NPM" width="60" height="60"/>
       <br>NPM
@@ -77,16 +81,20 @@
   </tr>
 </table>
 
-### Testing :
+### Version Control System:
 <table width="100%">
   <tr>
     <td align="center" width="110" height="90">
-      <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" alt="Jest" width="60" height="60" />
-      <br>Jest
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+      <br>Git
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="60" height="60"/>
-      <br>Selenium
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Git" width="60" height="60"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Git" width="60" height="60"/>
+      <br>GitLab
     </td>
   </tr>
 </table>
@@ -105,28 +113,30 @@
   </tr>
 </table>
 
+### Testing :
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" alt="Jest" width="60" height="60" />
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="60" height="60"/>
+      <br>Selenium
+    </td>
+  </tr>
+</table>
+
 ### Another technologies :
 <table width="100%">
   <tr>
     <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-      <br>Git
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
       <br>Java
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-      <br>C
     </td>
     <td align="center" width="110" height="90">
       <img src="https://github.com/Dima-Sosin/Dima-Sosin/assets/127529532/faefb54d-a063-48fb-975f-58194f5a5c85" alt="C++" width="60" height="60"/>
       <br>C++
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-      <br>MySQL
     </td>
   </tr>
 </table>
