@@ -59,31 +59,40 @@
       <br>NPM
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://vitejs.dev/logo.svg" alt="Vite"  width="60" height="60"/>&nbsp;
+      <img src="https://vitejs.dev/logo.svg" alt="Vite"  width="60" height="60"/>
       <br>Vite
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="WebPack"  width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="WebPack"  width="60" height="60"/>
       <br>WebPack
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" alt="Sass" width="60" height="60" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React Router"  width="60" height="60"/>
+      <br>React Router
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="Axios"  width="60" height="60"/>
+      <br>Axios
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" alt="Sass" width="60" height="60" />
       <br>Sass
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="Less " width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="Less " width="60" height="60"/>
       <br>Less
     </td>
     <td align="center" width="110" height="90">
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="60" height="60" />
       <br>Tailwind
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
-      <br>Figma
-    </td>
+    
   </tr>
 </table>
 
