@@ -51,8 +51,8 @@
   </tr>
   <tr>
     <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="60" height="60"/>
-      <br>NodeJS
+      <img src="https://github.com/user-attachments/assets/396d290c-15b2-442e-a9d8-5ededcc5efd7" alt="Zustand" width="60" height="60"/>
+      <br>Zustand
     </td>
     <td align="center" width="110" height="90">
       <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" alt="NPM" width="60" height="60"/>
@@ -74,6 +74,12 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="Less " width="60" height="60"/>&nbsp;
       <br>Less
     </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="60" height="60" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="110" height="90">
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
       <br>Figma
