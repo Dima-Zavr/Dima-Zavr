@@ -92,7 +92,14 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="60" height="60" />
       <br>Tailwind
     </td>
-    
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" alt="AntDesign" width="60" height="60" />
+      <br>AntDesign
+    </td>
   </tr>
 </table>
 
