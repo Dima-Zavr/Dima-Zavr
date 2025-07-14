@@ -75,8 +75,8 @@
       <br>Axios
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
-      <br>Figma
+      <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="AntDesign" width="60" height="60" />
+      <br>Electron
     </td>
   </tr>
   <tr>
@@ -99,6 +99,14 @@
     <td align="center" width="110" height="90">
       <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" alt="AntDesign" width="60" height="60" />
       <br>AntDesign
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="AntDesign" width="60" height="60" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="AntDesign" width="60" height="60" />
+      <br>Three.js
     </td>
   </tr>
 </table>
@@ -159,6 +167,10 @@
     <td align="center" width="110" height="90">
       <img src="https://github.com/Dima-Sosin/Dima-Sosin/assets/127529532/faefb54d-a063-48fb-975f-58194f5a5c85" alt="C++" width="60" height="60"/>
       <br>C++
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
+      <br>Figma
     </td>
   </tr>
 </table>
